@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ktor Android Chat</string>
+
+    <string name="username_hint">Enter a username</string>
+    <string name="join">Join</string>
+    <string name="username_should_not_empty">Username should not empty</string>
+
+    <string name="empty_username"> </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_your_message">Enter your message</string>
+    <string name="send">Send</string>
+</resources>
